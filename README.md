@@ -1,6 +1,6 @@
 # Working with Computer Files and Folders
 
-This repository contains a collection of scripts focused on working with computer files and folders using Python. Each section includes practical examples, resources, and step-by-step guides to help you master the techniques of file and folder manipulation.
+This repository contains a collection of scripts focused on working with computer files and folders using Python.
 
 ## Contents
 
