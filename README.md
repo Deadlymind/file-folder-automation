@@ -8,18 +8,14 @@ This repository contains a collection of scripts focused on working with compute
 2. **Add Prefix to All Filenames in Folder**
 3. **Rename All Files Based on Folder**
 4. **Daily Python Projects**
-5. **Rename All Files Based on Sub-Sub-Folders (Exercise)**
-6. **Rename All Files Based on Sub-Sub-Folders (Solution)**
-7. **Add Created Date to All Filenames in Folder (Exercise)**
-8. **Add Created Date to All Filenames in Folder (Solution)**
-9. **Change File Extensions (Exercise)**
-10. **Change File Extensions (Solution)**
-11. **Create Empty Files**
-12. **Create Archive from Files**
-13. **Extract All ZIP Files**
-14. **Search File in Computer (Exercise)**
-15. **Search File in Computer (Solution)**
-16. **Destroy Files Forever**
+5. **Rename All Files Based on Sub-Sub-Folders**
+6. **Add Created Date to All Filenames in Folder**
+7. **Change File Extensions**
+8. **Create Empty Files**
+9. **Create Archive from Files**
+10. **Extract All ZIP Files**
+11. **Search File in Computer**
+12. **Destroy Files Forever**
 
 ## Features
 
